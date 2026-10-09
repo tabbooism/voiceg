@@ -1,0 +1,6 @@
+{
+  "name": "MediaVision & Voice Isolator Studio",
+  "description": "AI media inspection, OCR, auto-categorization, deep photo editing, Google Drive sync, and studio-grade voice isolation with real-time waveforms.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
